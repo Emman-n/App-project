@@ -1,0 +1,5 @@
+if you see this it means git worked correctly very nice ya
+
+
+May 12 
+    added the walking skeleton 
